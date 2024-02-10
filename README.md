@@ -13,8 +13,9 @@ This study aims to:
 ## Results 📊
 
 
-- Top 10
-![TOP 10](https://github.com/kwatcharapong2543/Netflix-movie/assets/158846091/c521a54f-4ec2-42a5-8f32-bd752cf165ed)
+- Top 10 ![TOP 10]
+-
+- (https://github.com/kwatcharapong2543/Netflix-movie/assets/158846091/c521a54f-4ec2-42a5-8f32-bd752cf165ed)
 
 
 
