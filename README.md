@@ -1,5 +1,6 @@
 # Netflix-movie
 1st personal project
+
 This study aims to:
 
 - Training to use SQL Server Management Studio (SSMS) From the beginning of installation --> Import data from excel to SSMS --> implement SQL function --> Create project 
