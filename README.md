@@ -13,7 +13,7 @@ This study aims to:
 ## Results 📊
 
 
-
+1.TOP 10 
 ![TOP 10](https://github.com/kwatcharapong2543/Netflix-movie/assets/158846091/50b67501-737b-47c9-b642-1c9f160b10f6)
 
 
