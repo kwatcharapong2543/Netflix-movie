@@ -20,6 +20,9 @@ This study aims to:
 
 - Percentage of movie the belong to each Genre in the Database.
 
+- ![Percentage](https://github.com/kwatcharapong2543/Netflix-movie/assets/158846091/3ca27f81-a619-4f60-8e3d-603679d3e35b)
+
+
 - RANK the Movie & Tv series on the Basis of their IMDB score.
 
 - AVG rating.
