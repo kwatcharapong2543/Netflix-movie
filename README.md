@@ -20,15 +20,27 @@ This study aims to:
 
 - Percentage of movie the belong to each Genre in the Database.
 
-- ![Percentage](https://github.com/kwatcharapong2543/Netflix-movie/assets/158846091/3ca27f81-a619-4f60-8e3d-603679d3e35b)
+![Percentage](https://github.com/kwatcharapong2543/Netflix-movie/assets/158846091/3ca27f81-a619-4f60-8e3d-603679d3e35b)
 
 
 - RANK the Movie & Tv series on the Basis of their IMDB score.
 
+![RANK](https://github.com/kwatcharapong2543/Netflix-movie/assets/158846091/eed7c564-b7d1-47eb-aa88-9de57074692c)
+
+
 - AVG rating.
 
+![AVG_rating](https://github.com/kwatcharapong2543/Netflix-movie/assets/158846091/e25e82bf-877b-43e1-8803-fd8b1a1e3198)
+
+
 - Case.
-- 
+
+![case](https://github.com/kwatcharapong2543/Netflix-movie/assets/158846091/2df5a7cf-995e-47d0-b822-a836e2222b39)
+
+
 - The Highest movie in Year 2022.
+
+![Highest movie in YEAR 2022](https://github.com/kwatcharapong2543/Netflix-movie/assets/158846091/b89f45e0-70b3-4cb7-9b96-32f01e9fef22)
+
 
 
