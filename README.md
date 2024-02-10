@@ -13,25 +13,17 @@ This study aims to:
 ## Results 📊
 
 
-- Top 10 ![TOP 10]
--
-<p align="center"><img src="![TOP 10](https://github.com/kwatcharapong2543/Netflix-movie/assets/158846091/773b5e3c-ed93-43ba-8a48-3fce042fa862)"\></p>
-
-
+- Top 10 
 
 
 - Percentage of movie the belong to each Genre in the Database.
 
-
 - RANK the Movie & Tv series on the Basis of their IMDB score.
-
 
 - AVG rating.
 
-
 - Case.
-
-
+- 
 - The Highest movie in Year 2022.
 
 
