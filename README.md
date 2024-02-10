@@ -13,9 +13,9 @@ This study aims to:
 ## Results 📊
 
 
-1.TOP 10 
-![TOP 10]
-(https://github.com/kwatcharapong2543/Netflix-movie/assets/158846091/50b67501-737b-47c9-b642-1c9f160b10f6)
+- TOP 10
+
+![TOP 10](https://github.com/kwatcharapong2543/Netflix-movie/assets/158846091/36c7927d-8b02-4a32-af2a-3184b6ec1865)
 
 
 - Percentage of movie the belong to each Genre in the Database.
