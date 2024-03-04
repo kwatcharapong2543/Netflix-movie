@@ -45,5 +45,7 @@ This study aims to:
 
 - Dashboard
 
-![netflix_report(1).pdf](https://github.com/kwatcharapong2543/Netflix-movie/files/14486073/netflix_report.1.pdf)
+
+[netflix_report.pdf](https://github.com/kwatcharapong2543/Netflix-movie/files/14486094/netflix_report.pdf)
+
 
