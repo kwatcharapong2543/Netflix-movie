@@ -43,9 +43,12 @@ This study aims to:
 
 ![Highest movie in YEAR 2022](https://github.com/kwatcharapong2543/Netflix-movie/assets/158846091/b89f45e0-70b3-4cb7-9b96-32f01e9fef22)
 
-- Dashboard
+2.หลังจากวิเคราะห์ data เสร็จแล้วนำข้อมูลที่ได้นั้นมาทำ Dashboard
+- Dashboard (Looker studio)
+
+![netflix_report](https://github.com/kwatcharapong2543/Netflix-movie/assets/158846091/9cb5796b-f1e9-4e27-92a6-affb86a8b6b4)
 
 
-[netflix_report.pdf](https://github.com/kwatcharapong2543/Netflix-movie/files/14486094/netflix_report.pdf)
+
 
 
