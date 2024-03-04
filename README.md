@@ -43,5 +43,6 @@ This study aims to:
 
 ![Highest movie in YEAR 2022](https://github.com/kwatcharapong2543/Netflix-movie/assets/158846091/b89f45e0-70b3-4cb7-9b96-32f01e9fef22)
 
-
+- Dashboard
+[netflix_report(1).pdf](https://github.com/kwatcharapong2543/Netflix-movie/files/14486061/netflix_report.1.pdf)
 
